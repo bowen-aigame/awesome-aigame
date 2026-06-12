@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="media/logo.svg" alt="Awesome AI Game" width="720">
+<img src="logo.svg" alt="Awesome AI Game" width="720">
 
 # Awesome AI Game [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
