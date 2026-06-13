@@ -26,7 +26,7 @@ Gaming has moved from PC, to mobile, to the web — and now to **AI**. This list
 
 - [Conversational & AI NPC Games](#conversational--ai-npc-games)
 - [AI Storytelling & Roleplay](#ai-storytelling--roleplay)
-- [AI Sandbox, Party & Living Worlds](#ai-sandbox-party--living-worlds)
+- [AI Sandbox, Simulation & Party Games](#ai-sandbox-simulation--party-games)
 - [AI NPCs in Mainstream Games](#ai-npcs-in-mainstream-games)
 - [Contributing](#contributing)
 
@@ -38,14 +38,14 @@ Talk your way through the game. Every character listens, remembers, and answers 
 |:-:|------|:-------:|---------|
 | 🥇 | [Whispers from the Star](https://www.anuttacon.com/) | 🔥🔥🔥 | Guide Stella, stranded on an alien planet, through real-time voice and text. Your words decide if she lives. The current high-water mark for AI NPCs. |
 | 🥈 | [Suck Up!](https://www.playsuckup.com/) | 🔥🔥 | You're a vampire who must charm and sweet-talk AI villagers into inviting you inside. The funniest proof that AI dialogue can *be* the gameplay. |
-| 🥉 | [EmemeTown](https://store.steampowered.com/app/2667830/EmemeTown/) | 🔥🔥 | A life-sim town of LLM-driven neighbors with real memories, schedules, and shifting loyalties — relationship-building *is* the progression. |
-| 4 | [Wanderfolk](https://wanderfolk.ai/) | 🔥 | An RPG where every NPC has AI-generated dialogue, persistent memory, a reputation system, and a gossip network that spreads what you do. |
-| 5 | [Vaudeville](https://store.steampowered.com/app/2240920/Vaudeville/) | 🔥 | A noir detective game where you interrogate fully AI-voiced characters with unscripted dialogue to crack the case. |
-| 6 | [Dead Meat](https://store.steampowered.com/app/2628740/Dead_Meat/) | 🔥 | An AI murder-mystery interrogation: question 15+ suspects by voice or text — they lie, crack, and confess based on what you ask. |
-| 7 | [Talk to Me Human](https://store.steampowered.com/app/3203160/Talk_to_Me_Human/) | 🔥 | A talk-your-way-out adventure where you lie, flatter, and coerce AI NPCs through everyday conversations using your own words. |
-| 8 | [Retail Mage](https://www.jamandtea.studio/) | 🔥 | A cozy improv-comedy RPG in a magical furniture store, where AI improvises around whatever chaos you type. |
-| 9 | [Mindwarp: Island Detective](https://store.steampowered.com/app/3305870/) | 🔥 | AI-generated cases, suspects, voices, and personalities — a near-endless supply of fresh whodunits to interrogate. |
-| 10 | [Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The landmark mod that gives every NPC in Skyrim and Fallout 4 a real AI voice, memory, and unscripted conversation. |
+| 🥉 | [Wanderfolk](https://wanderfolk.ai/) | 🔥🔥 | An RPG where every NPC has AI-generated dialogue, persistent memory, a reputation system, and a gossip network that spreads what you do. |
+| 4 | [Vaudeville](https://store.steampowered.com/app/2240920/Vaudeville/) | 🔥 | A noir detective game where you interrogate fully AI-voiced characters with unscripted dialogue to crack the case. |
+| 5 | [Dead Meat](https://store.steampowered.com/app/2628740/Dead_Meat/) | 🔥 | An AI murder-mystery interrogation: question 15+ suspects by voice or text — they lie, crack, and confess based on what you ask. |
+| 6 | [Talk to Me Human](https://store.steampowered.com/app/3203160/Talk_to_Me_Human/) | 🔥 | A talk-your-way-out adventure where you lie, flatter, and coerce AI NPCs through everyday conversations using your own words. |
+| 7 | [Retail Mage](https://www.jamandtea.studio/) | 🔥 | A cozy improv-comedy RPG in a magical furniture store, where AI improvises around whatever chaos you type. |
+| 8 | [Murder Mystery Mayhem AI](https://store.steampowered.com/app/3220670/Murder_Mystery_Mayhem_AI/) | 🔥 | A 1920s whodunit where you freely interrogate a cast of AI suspects in real time to expose the killer. |
+| 9 | [Verbal Verdict](https://store.steampowered.com/app/2778780/Verbal_Verdict/) | 🔥 | A 1950s Brooklyn detective game running a local LLM — grill suspects with any question you can type. |
+| 10 | [AI2U: With You 'Til The End](https://store.steampowered.com/app/2880730/AI2U_With_You_Til_The_End/) | 🔥 | A yandere romance-horror where you must talk your way out of an obsessive AI companion's grip — every reply is unscripted LLM dialogue. |
 
 ## AI Storytelling & Roleplay
 
@@ -55,31 +55,31 @@ Infinite narratives generated as you play. The dungeon master is a language mode
 |:-:|------|:-------:|---------|
 | 🥇 | [AI Dungeon](https://aidungeon.com/) | 🔥🔥🔥 | The pioneer of AI interactive fiction: limitless, player-steered adventures in any genre imaginable. By Latitude. |
 | 🥈 | [Friends & Fables](https://fables.gg/) | 🔥🔥 | An AI Game Master running D&D 5e-style campaigns with tactical battlemaps, persistent worlds, image generation, and multiplayer parties. |
-| 🥉 | [Character.AI](https://character.ai/) | 🔥🔥 | The most popular place to roleplay with AI characters — millions of community-made personalities to play scenes with. |
-| 4 | [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) | 🔥🔥 | The first Steam RPG with entirely LLM-generated entities, crafting recipes, combat outcomes, and AI-illustrated scenes. |
-| 5 | [Talkie](https://www.talkie-ai.com/) | 🔥🔥 | A huge library of voiced AI characters to roleplay with, plus tools to build your own and play out story scenes. |
-| 6 | [1001 Nights](https://www.1001nights.ai/) | 🔥 | Award-winning AI-native game: play Scheherazade, weave tales with an AI king, and turn your story's words into real weapons. |
-| 7 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Turns books and fictional worlds into social roleplaying adventures, co-authored live with an AI narrator. |
-| 8 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
-| 9 | [NovelAI](https://novelai.net/) | 🔥 | Storyteller-grade AI writing and roleplay with deep, fine-grained control over tone, characters, and world. |
-| 10 | [Chai](https://www.chai-research.com/) | 🔥 | A swipe-to-discover platform of community-made AI characters for quick, pick-up-and-play narrative roleplay. |
+| 🥉 | [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) | 🔥🔥 | The first Steam RPG with entirely LLM-generated entities, crafting recipes, combat outcomes, and AI-illustrated scenes. |
+| 4 | [1001 Nights](https://www.1001nights.ai/) | 🔥 | Award-winning AI-native game: play Scheherazade, weave tales with an AI king, and turn your story's words into real weapons. |
+| 5 | [AIdventure](https://store.steampowered.com/app/2114790/AIdventure/) | 🔥 | A pioneering AI text-adventure with 27 starting scenarios, custom worlds, and Steam Workshop sharing — your own infinite stories. |
+| 6 | [AI Script: Infinite Text Adventures](https://store.steampowered.com/app/3991060/AI_Script_Infinite_Text_Adventures/) | 🔥 | A free AI Game Master spins never-repeating text adventures, with tabletop-style dice rolls deciding your fate. |
+| 7 | [Danse Macabre: AI Text RPG](https://store.steampowered.com/app/2376080/Danse_Macabre_AI_Text_RPG/) | 🔥 | A free, open-source text RPG in 14th-century Austria where ChatGPT-driven NPCs react to how you investigate a murder. |
+| 8 | [Vojna](https://store.steampowered.com/app/1978690/Vojna/) | 🔥 | A wartime survival story where your only lifeline is an AI on the radio — talk to it, and your words steer the mission and the ending. |
+| 9 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Play social roleplaying adventures set inside books and fictional worlds, co-authored live with an AI narrator. |
+| 10 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
 
-## AI Sandbox, Party & Living Worlds
+## AI Sandbox, Simulation & Party Games
 
-Worlds generated and inhabited by AI, and AI as the party host — explore neural-rendered universes, watch societies of autonomous characters unfold, or let a model run the game night. *(Ranked by hotness; updated June 2026.)*
+AI-driven worlds and societies you can live in — sandbox builders, life-sims full of autonomous LLM characters, and party games hosted by an AI. *(Ranked by hotness; updated June 2026.)*
 
 | # | Game | Hotness | Verdict |
 |:-:|------|:-------:|---------|
 | 🥇 | [Oasis](https://decart.ai/) | 🔥🔥🔥 | The first playable, real-time AI-generated open world: a Minecraft-like game where every frame is rendered by a neural network — no game engine at all. By Decart. |
 | 🥈 | [Infinite Craft](https://neal.fun/infinite-craft/) | 🔥🔥🔥 | Combine elements to discover an unbounded, LLM-generated crafting tree. Start with four elements; end up with philosophers, memes, and gods. By Neal Agarwal. |
 | 🥉 | [Death by AI](https://deathbyai.gg/) | 🔥🔥🔥 | A free party-survival hit where an AI judges whether your plan survives deadly scenarios. Up to 10 players; millions reached. |
-| 4 | [Doodle Duel](https://doodleduel.ai/) | 🔥 | A real-time drawing party game for 2–30 players where everyone draws the same prompt and an AI judge ranks the results. |
-| 5 | [Player2](https://player2.game/) | 🔥 | A platform of AI-powered multiplayer party games and companions, including AI-driven social deduction. |
+| 4 | [Status](https://www.statusai.com/) | 🔥🔥 | Sims, but social media: roleplay as anyone on a fully AI-simulated social network where AI characters post and react. 2.5M+ players. |
+| 5 | [EmemeTown](https://store.steampowered.com/app/2667830/EmemeTown/) | 🔥🔥 | A life-sim town of LLM-driven neighbors with real memories, schedules, and shifting loyalties — relationship-building *is* the progression. |
 | 6 | [AI People](https://www.goodai.com/) | 🔥 | A life-simulation sandbox by GoodAI where every character is an LLM-driven agent that perceives, remembers, and schemes. |
-| 7 | [AI Town](https://github.com/a16z-infra/ai-town) | 🔥 | A deployable virtual town of generative agents who live, talk, and form relationships on their own — watch it or join in. |
-| 8 | [Generative Agents (Smallville)](https://github.com/joonspk-research/generative_agents) | 🔥 | The landmark 25-agent sandbox that kicked off the AI-society genre — agents plan parties, gossip, and run for office. |
-| 9 | [Project Sid](https://github.com/altera-al/project-sid) | 🔥 | Many-agent simulation pushing toward an AI civilization inside Minecraft, with hundreds of autonomous characters. |
-| 10 | [Lucy](https://decart.ai/) | 🔥 | Decart's real-time world model that conjures interactive, ever-shifting environments on the fly from your prompts. |
+| 7 | [Doodle Duel](https://doodleduel.ai/) | 🔥 | A real-time drawing party game for 2–30 players where everyone draws the same prompt and an AI judge ranks the results. |
+| 8 | [Life of an NPC](https://store.steampowered.com/app/3489080/Life_of_an_NPC/) | 🔥 | A top-down town sim where every AI NPC sets its own goals and reacts, on its own, to events and to the other characters around it. |
+| 9 | [Survival Of Runt](https://store.steampowered.com/app/2500500/Survival_Of_Runt/) | 🔥 | A post-apocalyptic survival game where AI-powered NPCs talk and take orders, reacting in real time to whatever you say and do. |
+| 10 | [CLUAIDO](https://store.steampowered.com/app/2919500/CLUAIDO/) | 🔥 | A procedural whodunit where every suspect is an AI character — interrogate them freely and name the killer before the gas zone closes in. |
 
 ## AI NPCs in Mainstream Games
 
